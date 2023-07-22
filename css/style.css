@@ -11,7 +11,7 @@ header {
     background-color: #8C1E21;
     text-align: center;
     padding: 20px 0px;
-    box-shadow: 7px 0px 30px 2px #A36CA5;
+    box-shadow: 0px 2px 50px #A36CA5;
 }
 header h1{
     font-size: 65px;
@@ -54,6 +54,7 @@ footer {
     text-align: center;
     color: #F0F5F8;
     padding: 50px;
+    box-shadow: 0px 2px 50px #A36CA5;
 }
 footer p {
     margin: 0;
@@ -69,4 +70,12 @@ p.caption{
     color: #e9ca96df;
     font-style: italic;
     margin-top: 0;
+}
+main img {
+    box-shadow: 1px 1px 15px 0px #A36CA5;
+    background-color: transparent;
+}
+main img a:hover{
+    opacity: .5;
+    background-color: transparent;
 }
