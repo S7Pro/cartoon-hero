@@ -41,7 +41,8 @@ h2 {
     margin: 40px 0px 10px;
 }
 a {
-    color: #8C1E21;    
+    color: #8C1E21;
+    text-decoration: none;    
 }
 a:hover{
     background-color: #A36CA5;
